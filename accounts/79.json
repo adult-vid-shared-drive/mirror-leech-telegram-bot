@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adult-vid-shred-drive",
+  "private_key_id": "9b30f8afad6473ac025bf15298ed6c768d2d7435",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4auzc2GwbdFOB\nPgjJNqChtdjd6UxjBboQg8tHkjE0da4IMbmy8WwYyp3/x5QgPMobpgqXCoae3cg6\n1lN+HuVcOLJkavm4md4z4mV/gHLMRgWjE2HE86hVNf0NVrO/jdGQXgpWbs+wbcrc\nWDmphAMRXyI8aVBE76j2OCaBGSb57xaY4M5j9oOmcB6axMoLhrmP5cXrIryi+MFF\n8XyBcQwl+saskuQUFRftTpch0Zk2lexUX8gmdJv6Vio7A+WDdsnO5WGfGwbDkQ1f\nrv8EDQm8VUYfzjc8oUx0hDA1Ca6/ncTNh1e7iERu+vK99iSBwOgSBKgLx0BuAJal\nwNR0bGbZAgMBAAECggEADwkDDanq/aQF9aWemfUFTJnV6zJ//IGOuJXEjXqKq3Ak\nUHbpYM1UPRzLzxSXUlEfP/jRQgL+lCL/YsvVgi6Edl8JYEZLQyfvf0ObRDViZp59\npPZJqs21fb9i+OLtBBZMxxxIc6266tnqR5bXAKe9uxbwyupIVcGqTbfcBi6l4fHe\ny+zHQPGZT7WSZ/cifQ9QjjO9G5KB8TsDNIFa03wofrQoK3HP+eFlTkPQ2EpbWY8v\n7psvBnzqte91SLhxszurRLgkHtJCUjOKtl7d8stqCg16UgL0rqV4i4KFVjReWiSC\nUncJTlZBkuoUJuFDDUHt45/+y5Z7476De8u+qzBnBwKBgQD1CCOxz5Z4orAh1Tmu\nrnIJDh+Q6/W5Eypb/8ABjOeS37YML8FkBs9++xB/Z+n92w3VvyG1CCXV44lA11mV\n9BpvCSxoTr8pDrORNR3AnpwWVzlkPjdILQ8H4vUvAmWwFgHTTE7yRJE8dnLXgpGT\n3G8hKgvEKobHUw+SZJP0GOabCwKBgQDArDLMr1GJj2Qa9Zoq/PCe0luwIXm5vJjG\neRK/dBb7yhAi7nKr2A/V9G+XIlk70J9iMZHhnKydY8+xx1EPD8WadnJL7knJZf0u\n4N/fI5GFF8rF4b0/44I6LCxRS9tIZiLcd72ONK4fXiflN7tPA77u6QgmNKTl83J+\nTkrVNOqUKwKBgQDoBj8WnsWTkipKv0gRuypMnM0TQ/y4tgdEepbsYOrfz2rpe0cb\nWr+dNExY+KNAOO+O2aAndoGtWfqcJc+1CSMGxZ8BXp/xVvR+qdd0kDypgwrbe3aJ\np/E1vJoDW7fC1/P+i6GuE3Ob12XD4OXNJ80rkE74AHUDxglWzFq1p+amJQKBgQCJ\nR2gejN/0ulUiHFJPRM+Q6eLoOMHJRAY6i7N+9BEYL92Vdf4AUL7fu/zyW0fnJXsa\ndKUzcfVPYvlt+szXhW5O4wwG6+5o8CEYEKOSEn6xrMUOfwvfhJOaLTUaa4j/Kb63\nBR3rP7+8m9KjMDVmVA3rnd/vkNzY9r9iHRiWltB45wKBgAGY4RIRIMZ0YAo5KO0x\non9EL8fIWEC3aUJR2ZIWZQUxRFbq7ZEsW0/0HxKQBEPTnaDQ0yAMAsO0xBrLwDDq\nOAnsmBFc4xxW+Nl9N2z+fu71TfeInSMDQNoAegGmNagQ9o3andWoetWCAPUrLC6F\nrfWXbK7B4HZK9feJDXfx72Gy\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-60zcko6a2qaov4k3oinjpt5okv@adult-vid-shred-drive.iam.gserviceaccount.com",
+  "client_id": "106234672188641106748",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-60zcko6a2qaov4k3oinjpt5okv%40adult-vid-shred-drive.iam.gserviceaccount.com"
+}
